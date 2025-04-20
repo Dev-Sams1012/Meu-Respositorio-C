@@ -70,5 +70,16 @@ Esta atividade contém a implementação de algoritmos para a conversão de expr
 - **Problema 2:** Avalia uma expressão em Notação Polonesa Reversa usando uma pilha.
   
 
-- [Ativ 6 - Prog](./Ativ%206%20-%20Prog/)
+## [📘 Árvore Binária de Busca (BST)](./Ativ%206%20-%20Prog/)
+
+Esta atividade implementa operações em uma Árvore Binária de Busca (BST), incluindo inserção, remoção, busca e verificação de propriedades da árvore. A seguir, um resumo dos problemas resolvidos:
+
+- **Problema 1:** Raliza a busca de um valor `k` em uma árvore binária de busca, retornando 1 se o valor for encontrado, e 0 caso contrário.
+- **Problema 2:** Verifica se uma árvore binária segue as regras de uma árvore binária de busca (BST), onde o valor de cada nó à esquerda é menor e à direita é maior que o valor do nó raiz.
+- **Problema 3:** Insere um novo valor em uma árvore binária de busca. A árvore é reorganizada automaticamente para manter a propriedade da BST.
+- **Problema 4:** Retorna o menor valor em uma árvore binária de busca, que é o nó mais à esquerda da árvore.
+- **Problema 5:** Remove o nó com o menor valor da árvore e retorna a árvore atualizada.
+- **Problema 6:** Encontra o sucessor de um valor na árvore, ou seja, o menor valor maior que o valor dado.
+- **Problema 7:** Conta quantos valores da árvore estão dentro de um intervalo dado `[N, M]`.
+
 - [Ativ 7 - Prog](./Ativ%207%20-%20Prog/)
