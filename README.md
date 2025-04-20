@@ -19,8 +19,6 @@ Esta atividade contém a implementação de diversos algoritmos em C com foco em
 - **Problema 4b:** Realiza a mesma contagem usando uma abordagem mais eficiente baseada em Jump Search.
 - **Problema 5:** Encontra o pico (maior valor) em uma sequência bitônica usando busca binária.
 
-Cada função é testada individualmente com vetores de exemplo e saída esperada. O objetivo principal é exercitar o uso de estruturas de repetição, condicionais, funções, e noções básicas de complexidade algorítmica.
-
 
 ## [📘 Implementação de BigInt em C](./Ativ%202%20-%20Prog/)
 
@@ -36,7 +34,7 @@ Esta atividade contém a implementação de diversas operações com **Big Integ
 
 ## [📘 Implementação de Funções Recursivas e Iterativas](./Ativ%203%20-%20Prog/)
 
-Este código contém funções recursivas e iterativas em **C** para manipulação de strings e a criação de figuras geométricas. Veja um resumo das funções implementadas:
+Esta atividade contém funções recursivas e iterativas em **C** para manipulação de strings e a criação de figuras geométricas. Veja um resumo das funções implementadas:
 
 ### Funções Implementadas
 
@@ -64,6 +62,13 @@ Esta atividade contém a implementação de diversos algoritmos em C com foco em
 - **Problema 5:** Duplica cada nó em uma lista encadeada.
 - **Problema 6:** Realiza a fusão de duas listas encadeadas ordenadas em uma lista ordenada.
   
-- [Ativ 5 - Prog](./Ativ%205%20-%20Prog/)
+  ## [📘 Notação Polonesa Reversa](./Ativ%205%20-%20Prog/)
+
+Esta atividade contém a implementação de algoritmos para a conversão de expressões matemáticas para Notação Polonesa Reversa (RPN) e avaliação dessas expressões. O foco está no uso de pilhas e na manipulação de listas de tokens. A seguir, um resumo dos problemas resolvidos:
+
+- **Problema 1:** Converte uma expressão infixa (usando parênteses e operadores) para a Notação Polonesa Reversa.
+- **Problema 2:** Avalia uma expressão em Notação Polonesa Reversa usando uma pilha.
+  
+
 - [Ativ 6 - Prog](./Ativ%206%20-%20Prog/)
 - [Ativ 7 - Prog](./Ativ%207%20-%20Prog/)
