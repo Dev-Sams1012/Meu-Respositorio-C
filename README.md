@@ -32,7 +32,26 @@ Esta atividade contém a implementação de diversas operações com **Big Integ
 - **Problema 2:** Realiza a soma de dois números grandes, incluindo o tratamento de transbordos de dígitos.
 - **Problema 3:** Implementa a operação de deslocamento (shift) dos dígitos de um número grande para a esquerda ou direita.
 - **Problema 4:** Implementa uma soma de BigInt com um comportamento especial de transbordo, ajustando a soma conforme necessário.
-- [Ativ 3 - Prog](./Ativ%203%20-%20Prog/)
+
+
+## [📘 Implementação de Funções Recursivas e Iterativas](./Ativ%203%20-%20Prog/)
+
+Este código contém funções recursivas e iterativas em **C** para manipulação de strings e a criação de figuras geométricas. Veja um resumo das funções implementadas:
+
+### Funções Implementadas
+
+- **Triângulo**: Cria um triângulo de asteriscos com altura `n`. Testes são realizados comparando as versões recursiva e iterativa.
+  
+- **Retângulo**: Gera um retângulo de dimensões `n` x `m` utilizando versões recursiva e iterativa.
+
+- **Letra "V"**: Desenha a letra "V" com altura `n`. Testes garantem a equivalência entre as abordagens recursiva e iterativa.
+
+- **Bandeira**: Desenha uma bandeira com `n` linhas, tanto de forma recursiva quanto iterativa.
+
+- **Verificação de Ordenação**: Verifica se um vetor está ordenado utilizando versões recursiva e iterativa.
+
+- **Inversão de String**: Inverte uma string, comparando as versões recursiva e iterativa.
+
 - [Ativ 4 - Prog](./Ativ%204%20-%20Prog/)
 - [Ativ 5 - Prog](./Ativ%205%20-%20Prog/)
 - [Ativ 6 - Prog](./Ativ%206%20-%20Prog/)
