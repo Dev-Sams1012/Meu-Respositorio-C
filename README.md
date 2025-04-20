@@ -82,4 +82,11 @@ Esta atividade implementa operações em uma Árvore Binária de Busca (BST), in
 - **Problema 6:** Encontra o sucessor de um valor na árvore, ou seja, o menor valor maior que o valor dado.
 - **Problema 7:** Conta quantos valores da árvore estão dentro de um intervalo dado `[N, M]`.
 
-- [Ativ 7 - Prog](./Ativ%207%20-%20Prog/)
+
+## [📘 Árvore Binária de Busca (BST) - Altura e Folhas](./Ativ%207%20-%20Prog/)
+
+Esta atividade implementa operações em uma Árvore Binária de Busca (BST), incluindo o cálculo da altura e o número de folhas. A seguir, um resumo dos problemas resolvidos:
+
+- **Problema 1:** Calcula a altura de cada nó da árvore e preenche o campo `altura` de cada nó com o valor correspondente. A função `checa_altura_arvore` valida se a altura dos nós foi corretamente preenchida.
+
+- **Problema 2:** Calcula o número de folhas de cada nó da árvore e preenche o campo `num_folhas` de cada nó com o valor correspondente. A função `checa_folhas_arvore` valida se o número de folhas dos nós foi corretamente preenchido.
