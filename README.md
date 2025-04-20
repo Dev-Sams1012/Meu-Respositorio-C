@@ -52,7 +52,18 @@ Este código contém funções recursivas e iterativas em **C** para manipulaç�
 
 - **Inversão de String**: Inverte uma string, comparando as versões recursiva e iterativa.
 
-- [Ativ 4 - Prog](./Ativ%204%20-%20Prog/)
+
+## [📘 Manipulação de Lista Encadeada](./Ativ%204%20-%20Prog/)
+
+Esta atividade contém a implementação de diversos algoritmos em C com foco em manipulação de listas encadeadas, recursão e operações relacionadas. A seguir, um resumo dos problemas resolvidos:
+
+- **Problema 1:** Conta o número de elementos em uma lista encadeada menores que um valor `k`.
+- **Problema 2:** Remove todos os elementos de uma lista encadeada menores que um valor `k`.
+- **Problema 3:** Conta o número de inversões em uma lista encadeada (pares de elementos consecutivos em ordem decrescente).
+- **Problema 4:** Troca pares consecutivos de elementos em uma lista encadeada.
+- **Problema 5:** Duplica cada nó em uma lista encadeada.
+- **Problema 6:** Realiza a fusão de duas listas encadeadas ordenadas em uma lista ordenada.
+  
 - [Ativ 5 - Prog](./Ativ%205%20-%20Prog/)
 - [Ativ 6 - Prog](./Ativ%206%20-%20Prog/)
 - [Ativ 7 - Prog](./Ativ%207%20-%20Prog/)
